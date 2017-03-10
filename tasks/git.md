@@ -1,6 +1,6 @@
-# git
+# git #
 
-## Содержание
+## Содержание ##
 
 * [Установка git](git/install.md)
 * [Настройка git](git/setup.md)
