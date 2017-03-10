@@ -9,7 +9,7 @@
 
 * Linux:
 
-    mkdir -p ~/dev
+        mkdir -p ~/dev
 
 * Windows: TODO
 
@@ -17,7 +17,7 @@
 
 * Linux:
 
-    cd ~/dev
+        cd ~/dev
 
 * Windows: TODO
 
@@ -25,7 +25,7 @@
 
 * Linux:
 
-    mkdir -p chooba
+        mkdir -p chooba
 
 * Windows: TODO
 
@@ -33,7 +33,7 @@
 
 * Linux:
 
-    cd chooba
+        cd chooba
 
 * Windows: TODO
 
@@ -41,7 +41,7 @@
 
 * Linux:
 
-    git clone git@github.com:chooba/learning.git
+        git clone git@github.com:chooba/learning.git
 
 * Windows: TODO
 
@@ -59,7 +59,7 @@
 
 * Linux:
 
-    cd learning
+        cd learning
 
 * Windows: TODO
 
@@ -67,7 +67,7 @@
 
 * Linux:
 
-    ls -l
+        ls -l
 
 * Windows: TODO
 
