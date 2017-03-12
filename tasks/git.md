@@ -12,6 +12,7 @@
 * Частые действия
 
     * [Добавление файла в репозиторий](git/add-file.md)
+    * [Коммит / Commit](git/commit.md)
     * [Ветка / Бранч / Branch](git/branch.md)
     * TODO
 
